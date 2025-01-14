@@ -5,6 +5,6 @@ Here, we explore the TE landscape in the genome of Ectocarpus, a model organism 
 Our findings highlight the complex interplay between TEs and different regions of the Ectocarpus genome across development, providing insights into their potential roles during brown algae life cycles.
 
 - [The Ectocarpus genome features a high diversity of recently active TEs](https://github.com/edinatale/Ectocarpus-TEs/tree/main/The%20Ectocarpus%20genome%20features%20a%20high%20diversity%20of%20recently%20active%20TEs)
-- [Chromosomal distribution of TEs reveals repeat enrichment on the sex chromosomes] ()
-- [Distribution and characteristics of TE insertions relative to genic sequence] ()
-- [Small RNAs and non-canonical histone modifications are associated with potentially active TEs] ()
+- [Chromosomal distribution of TEs reveals repeat enrichment on the sex chromosomes](https://github.com/edinatale/Ectocarpus-TEs/tree/main/Chromosomal%20distribution%20of%20TEs%20reveals%20repeat%20enrichment%20on%20the%20sex%20chromosomes)
+- [Distribution and characteristics of TE insertions relative to genic sequence]()
+- [Small RNAs and non-canonical histone modifications are associated with potentially active TEs]()
