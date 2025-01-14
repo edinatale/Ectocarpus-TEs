@@ -6,5 +6,5 @@ Our findings highlight the complex interplay between TEs and different regions o
 
 - [The Ectocarpus genome features a high diversity of recently active TEs](https://github.com/edinatale/Ectocarpus-TEs/tree/main/The%20Ectocarpus%20genome%20features%20a%20high%20diversity%20of%20recently%20active%20TEs)
 - [Chromosomal distribution of TEs reveals repeat enrichment on the sex chromosomes](https://github.com/edinatale/Ectocarpus-TEs/tree/main/Chromosomal%20distribution%20of%20TEs%20reveals%20repeat%20enrichment%20on%20the%20sex%20chromosomes)
-- [Distribution and characteristics of TE insertions relative to genic sequence]()
+- [Distribution and characteristics of TE insertions relative to genic sequence](https://github.com/edinatale/Ectocarpus-TEs/tree/main/Distribution%20and%20characteristics%20of%20TE%20insertions%20relative%20to%20genic%20sequence)
 - [Small RNAs and non-canonical histone modifications are associated with potentially active TEs]()
